@@ -1,0 +1,9 @@
+compile server 
+gcc 23CS60R73_A9_server.c -o server
+compile client
+gcc 23CS60R73_A9_client.c -o client 
+
+to run server 
+./server 
+to run client 
+./client
