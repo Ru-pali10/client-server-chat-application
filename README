@@ -1,0 +1,35 @@
+
+Requirements
+
+    Linux operating system (Ubuntu, Pop OS, Linux Mint recommended)
+    C programming language
+    gcc compiler
+    VirtualBox or similar software (if using a non-Linux OS)
+    Basic knowledge of network programming
+Compiler :
+gcc -o ./socket/server ./socket/server.c ./socket/uuid4.c -lpthread
+
+Running :
+$ ./socket/server   // for server running
+$ ./socket/client   // for client running
+
+Chatbot Commands
+    *** based on FAQs.txt 
+    /chatbot login: Activate the chatbot feature.
+    /chatbot logout: Deactivate the chatbot feature.
+
+Additional Commands
+
+    /active: Retrieve a list of active clients.
+    /send <dest_id> <message>: Send a message to another client using their unique ID.
+    /logout: Exit the application.
+
+Chat History
+
+    /history <recipient_id>: Retrieve the conversation history with a specific recipient.
+    /history_delete <recipient_id>: Delete chat history with a specific recipient.
+    /delete_all: Delete complete chat history.
+*** server_log.txt //this is a log file created
+// for chatbotv2 
+/chatbot_v2 login
+/chatbot_v2 logout

@@ -1,0 +1,8 @@
+Client : Hii I am Client
+Server : HI, THIS IS SERVER. HAVE A NICE DAY!!! 54db8a06-8e3a-4073-8048-0bb43546d54d
+Server : Sending active clients list to Client 1
+gpt2bot>Hi, I am updated bot, I am able to answer any question be it correct or incorrect
+Client : Hii I am Client
+Server : HI, THIS IS SERVER. HAVE A NICE DAY!!! c08f9fb7-7c4e-48eb-a5b8-cbf908eb24e3
+Server : Sending active clients list to Client 1
+gpt2bot>Hi, I am updated bot, I am able to answer any question be it correct or incorrect
